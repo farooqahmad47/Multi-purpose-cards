@@ -22,12 +22,13 @@ Create an intuitive mobile menu using these cards. The responsive design ensures
 
 **Customization**: Modify the card content, styles, and hover effects to suit your application's branding and requirements.
 
-License
+**License**
 This project is licensed under the MIT License - feel free to use, modify, and distribute as needed.
+
 **Query**
 =====================================================================================================
-select 
 
+select 
     '1509' as Title,
     'Totay Sales' as sub_title,
     'https://apex.oracle.com/pls/apex/r/ahmad_tech/28888/files/static/v11/economy.png' as img,
@@ -38,7 +39,6 @@ select
 from dual
 union all
 select 
-
     'Title' as Title,
     'Sub Title' as sub_title,
     'https://apex.oracle.com/pls/apex/r/ahmad_tech/28888/files/static/v11/procurement.png' as img,
@@ -49,7 +49,6 @@ select
 from dual
 union all
 select 
-
     'Title' as Title,
     'Sub Title' as sub_title,
     'https://apex.oracle.com/pls/apex/r/ahmad_tech/28888/files/static/v11/purchasing.png' as img,
@@ -60,7 +59,6 @@ select
 from dual
 union all
 select 
-
     'Title' as Title,
     '100' as sub_title,
     'https://apex.oracle.com/pls/apex/r/ahmad_tech/28888/files/static/v11/economy.png' as img,
@@ -71,7 +69,6 @@ select
 from dual
 union all
 select 
-
     'Title' as Title,
     'Sub Title' as sub_title,
     'https://apex.oracle.com/pls/apex/r/ahmad_tech/28888/files/static/v11/procurement.png' as img,
@@ -80,6 +77,7 @@ select
     '#056ac8' as border ,
     '' as bgcolor
 from dual
+
 =====================================================================================================
 
 Feedback and Contributionsf

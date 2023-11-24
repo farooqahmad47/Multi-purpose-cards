@@ -19,6 +19,7 @@ Highlight products or promotions with these cards in your e-commerce platform. T
 **Mobile Menu Cards**
 Create an intuitive mobile menu using these cards. The responsive design ensures a smooth and user-friendly navigation experience for mobile users.
 
+https://github.com/farooqahmad47/Multi-purpose-cards/blob/main/pluginimg.png?raw=true
 
 **Customization**: Modify the card content, styles, and hover effects to suit your application's branding and requirements.
 

@@ -26,7 +26,7 @@ Create an intuitive mobile menu using these cards. The responsive design ensures
 This project is licensed under the MIT License - feel free to use, modify, and distribute as needed.
 
 **Query**
-=====================================================================================================
+-----------------------------------------------------------------------------------------------------------
 
 select 
     '1509' as Title,
@@ -78,7 +78,6 @@ select
     '' as bgcolor
 from dual
 
-=====================================================================================================
-
+--------------------------------------------------------------------------------------------------------------
 Feedback and Contributionsf
 farooq.oracle47@gmail.com

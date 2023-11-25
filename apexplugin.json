@@ -1,0 +1,36 @@
+{
+    "name": "Multi Purpose Card",
+    "version": "1.0",
+    "description": "Multi Purpose Card",
+    "keywords": ["Multi Purpose Card"],
+    "homepage": "https://github.com/farooqahmad47/Multi-purpose-cards",
+    "bugs": {
+      "url": "https://github.com/farooqahmad47/Multi-purpose-cards/issues",
+      "email": "farooq.oracle47@gmail.com"
+    },
+    "license": "MIT",
+    "commercial": "No",
+    "author": {
+      "name": "Farooq Ahmad",
+      "email": "farooq.oracle47@gmail.com",
+      "url": "https://www.linkedin.com/in/farooqahmadoracleapex/",
+      "twitter": "",
+      "donationUrl": ""
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/farooqahmad47/Multi-purpose-cards.git"
+    },
+    "oracle": {
+      "versions": ["23.2.0", "21.1.0", "19.1.0"],
+      "apex": {
+        "versions": ["23.2.0"],
+        "plugin": {
+          "internalName": "MULTI_PURPOSE_CARD",
+          "type": "template component",
+          "demo": "https://apex.oracle.com/pls/apex/r/ahmad_tech/plug-in-palace/login",
+          "previewImage"https://raw.githubusercontent.com/farooqahmad47/Multi-purpose-cards/main/MPCPLUGIN%20.gif"
+        }
+      }
+    }
+  }
